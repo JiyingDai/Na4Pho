@@ -17,7 +17,7 @@ ks=size(fit_dummy,1);
 Nch=16;
 
 Namp=0.3*max(abs(signal(:)));
-nsa=1;
+nsa=10000;
 
 fidPick=[1:5];
 % Namp=0.1:0.1:1.5;
