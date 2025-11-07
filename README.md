@@ -6,3 +6,7 @@ For Monte-Carlo study of coil combination based on synthetic 31P spectrum:
 
 For a basic illustration of the point-spreading (Introduction of the manuscript):
 Run Na4Pho_intro_point_spreading_illustration.py in Spyder.
+
+For Figure S4:
+1. Download PlotFigureS4.m, SNR_calc.m, N20.mat, N40.mat, N80.mat, and N160.mat to the same folder.
+2. Run PlotFigureS4.m.
